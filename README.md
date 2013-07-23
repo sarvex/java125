@@ -1,19 +1,7 @@
 Java
 ======
 
-Trying to complete over 100 projects in various categories in Java
-
 Trying to complete all projects from [Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) in Java
-
-===============================
-
-I will link to each project that I complete. Some will be in this same repo, some bigger ones will have dedicated repos.
-
-To get started, fork this repo, delete this README and rename [*README-scratch.md*](https://github.com/thekarangoel/Projects/blob/master/README-scratch.md) to *README.md*.
-
-**Note**: I have't read any problem while creating this repo. I'll read them as I start solving the problems. Hence, there is no prior filtering of problems. Keeps things spicy. :)
-
-===============================
 
 Numbers
 ---------
